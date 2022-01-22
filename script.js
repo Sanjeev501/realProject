@@ -1,1 +1,1 @@
-alert("Git is awesome!");
+const a = 50;
